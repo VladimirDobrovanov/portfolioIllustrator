@@ -310,11 +310,11 @@ margin-right: 15px;
 }
 
 .projects__block-3 {
-  background-image:-webkit-gradient(linear, left bottom, left top, color-stop(-2.9%, rgba(9, 12, 17, 0.84)), color-stop(50.7%, rgba(53, 65, 83, 0))), url(../img/book__btn.jpg);
+  background-image:-webkit-gradient(linear, left bottom, left top, color-stop(-2.9%, rgba(9, 12, 17, 0.84)), color-stop(50.7%, rgba(53, 65, 83, 0))), url(../img/calendar-btn.jpg);
   background-image:-o-linear-gradient(bottom, rgba(9, 12, 17, 0.84)
-  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/book__btn.jpg);
+  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/calendar-btn.jpg);
   background-image:linear-gradient(0deg, rgba(9, 12, 17, 0.84)
-  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/book__btn.jpg);
+  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/calendar-btn.jpg);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -340,11 +340,11 @@ margin-right: 15px;
 }
 
 .projects__block-6 {
-  background-image:-webkit-gradient(linear, left bottom, left top, color-stop(-2.9%, rgba(9, 12, 17, 0.84)), color-stop(50.7%, rgba(53, 65, 83, 0))), url(../img/gallery__btn.jpg);
+  background-image:-webkit-gradient(linear, left bottom, left top, color-stop(-2.9%, rgba(9, 12, 17, 0.84)), color-stop(50.7%, rgba(53, 65, 83, 0))), url(../img/book__btn.jpg);
   background-image:-o-linear-gradient(bottom, rgba(9, 12, 17, 0.84)
-  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/gallery__btn.jpg);
+  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/book__btn.jpg);
   background-image:linear-gradient(0deg, rgba(9, 12, 17, 0.84)
-  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/gallery__btn.jpg);
+  -2.9%, rgba(53, 65, 83, 0) 50.7%), url(../img/book__btn.jpg);
   background-repeat: no-repeat;
   background-size: contain;
 }
