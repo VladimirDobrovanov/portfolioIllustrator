@@ -985,13 +985,13 @@ background-image: url(../img/hazel__1-slide.jpg);
 }
 
 
-.gallery__img {
+.gallery__img , .calendar__img {
   padding-right: 20px;
   margin-bottom: 20px;
   border-radius: 10px;
 }
 
-.gallery__img img {
+.gallery__img img , .calendar__img img {
   border-radius: 10px;
 }
 
@@ -1074,3 +1074,4 @@ background-image: url(../img/hazel__1-slide.jpg);
 .merch__img img {
   border-radius: 20px;
 }
+
